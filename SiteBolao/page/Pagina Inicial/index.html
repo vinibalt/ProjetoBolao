@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sidebar 5</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" type="image/png" href="./img/diamond-shape-symbol-with-black-and-white-half-parts.png">
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <aside class="sidebar">
+      <div class="sidebar-inner">
+        <header class="sidebar-header">
+          <button
+            type="button"
+            class="sidebar-burger"
+            onclick="toggleSidebar()"
+          ><img src="./img/menu-burger.svg" alt=""></button>
+          <img src="./img/diamond-logo.png" class="sidebar-logo"/>
+          <span class="name">DiamondBet</span>
+        </header>
+        <nav class="sidebar-nav">
+          <button type="button">
+            <img src="./img/home.svg" />
+            <span>Início</span>
+          </button>
+          <button type="button">
+            <img src="./img/settings.svg" />
+            <span style="animation-delay: 0.1s">Ajustes</span>
+          </button>
+          <button type="button">
+            <img src="./img/stats.svg" />
+            <span style="animation-delay: 0.2s">Nível</span>
+          </button>
+          <button type="button">
+            <img src="./img/user.svg" />
+            <span style="animation-delay: 0.3s">Conta</span>
+          </button>
+          <button type="button">
+            <img src="./img/wallet.svg" />
+            <span style="animation-delay: 0.3s">Carteira</span>
+          </button>
+          <button type="button">
+            <img src="./img/trophy.svg" />
+            <span style="animation-delay: 0.3s">Prêmio</span>
+          </button>
+          <button type="button">
+            <img src="./img/coins.svg" />
+            <span style="animation-delay: 0.3s">Apostas</span>
+          </button>
+          
+        </nav>
+        <footer class="sidebar-footer">
+          <button type="button">
+            <img src="./img/exit.svg" />
+            <span><a href="C:\Projetos-UCB\Projeto-Bolão\SiteBolao\page\Pagina de Login\index.html">Logout</a></span>
+          </button>
+        </footer>
+      </div>
+    </aside>
+
+    <script type="text/javascript">
+      const toggleSidebar = () => document.body.classList.toggle("open");
+    </script>
+  </body>
+</html>
+
+
+<!-- <nav class="navBar">
+        <div class="logo">
+            <img src="./img/logoSiteBolao.png" alt="DiamondBet" height="45px" width="45px">
+        </div>
+        <span class="name">DiamondBet</span>
+    </nav> -->
