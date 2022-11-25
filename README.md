@@ -5,12 +5,13 @@ Professora Responsavel pela matéria: Joyce Siqueira  [GitHub](https://github.co
 
 | Alunos | Curso | Matrícula |
 | --- | --- | --- |
-| Rodrigo Boaventura | Ciência da Computação | |
-| Paulo Gustavo | Engenharia de Software | |
-| Vinicius Baltazar | Ciência da Computação | |
-| Luiz Felipe Bessa | Ciencia da Computação | |
-| Nycollas Martins| Ciencia da Computação|
-| Andre Luis| Ciência da Computação | |
+| Rodrigo Boaventura | Ciência da Computação | UC22103134 |
+| Paulo Gustavo | Engenharia de Software |  |
+| Vinicius Baltazar | Ciência da Computação | UC22200924 |
+| Luiz Felipe Bessa | Ciencia da Computação | UC21200731 |
+| Nycollas Martins| Ciencia da Computação|  |
+| Andre Luis| Ciência da Computação | UC22421199 |
+| Pablo Rodrigues Lima | Engenharia de Software | UC21200071 |
 #Tecnologias utilizadas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>
 ### Ideia do projeto (IceSports)
